@@ -1,5 +1,5 @@
 telethon
-git+https://github.com/Awesome-RJ/GoGoAnimeAPI.git
+git+https://github.com/Harry78909/GoGoAnimeAPI.git
 Flask
 gunicorn
 aiohttp
